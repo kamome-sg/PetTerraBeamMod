@@ -1,0 +1,3 @@
+author = kamome
+version = 1.0
+displayName = Pet Terra Beam Mod

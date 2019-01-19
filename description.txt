@@ -1,0 +1,13 @@
+This mod adds a Pet Terra Beam and a summoning item, and another recipe of Terra Blade!
+
+
+Added recipes
+
+Terra Blade, 10 Life Crystals, 3 Life Fruits -> Terra Blade(Summoning item)
+Crafting station : Mythril Anvil or Orichalcum Anvil
+
+Terra Blade(Summoning item) -> Terra Blade
+Crafting station : Mythril Anvil or Orichalcum Anvil
+
+999 Luminite Bars -> Terra Blade
+Crafting station : Ancient Manipulator
